@@ -1,0 +1,115 @@
+#logo{
+    margin-top:-7px;
+    margin-left:-7px;
+}
+
+header{
+    border-bottom: 2px solid rgb(1, 144, 180);
+}
+
+h1 {
+    text-align: center;
+    top: 45%;
+    right: 20%;
+    left: 15%;
+}
+h2 {
+    text-align: center;
+    
+    top: 60%;
+    right: 25%;
+}
+
+img {
+    width: 100px;
+    height: 65px;
+}
+
+#cato {
+    width: 1400px;
+    padding-left: 120px;
+    clear: both;
+}
+#div1 {
+    margin-left: 10px;
+}
+
+#div1, #div2, #div3{
+    width: 33%;
+    float: left;   
+}
+#div1 {
+    margin-left: 50px;
+    margin-top: 50px;
+}           
+#div2 {
+    margin-top:50px;
+    margin-left:10px;
+}
+#div3 {
+    margin-top:100px;
+    margin-left:-100px;
+    }
+.ind {
+    max-width: 100px;
+}
+
+.bus {
+    max-width: 120px;
+}
+
+.par {
+    max-width: 120px;
+    
+}
+
+#par, #bus, #ind{
+    background-color: rgb(253, 66, 63); /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 15%;
+}
+#Sgn{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    right: 47.5%;
+}
+.Log {
+    text-align: center;
+    position: absolute;
+    top: 5%;
+    right: 12%;
+}
+.Sign {
+    text-align: center;
+    position: absolute;
+    top: 5%;
+    right: 3%;
+}
+
+.about{
+        text-align: center;
+        position: absolute;
+        top: 8%;
+        right: 60%; 
+        color: rgb(0, 0, 0);
+        border: 2px solid red;
+        border-radius: 30%;
+        background-color: red;   
+    }
+
+.abu{
+    text-align: center;
+    position: absolute;
+    top: 8%;
+    right: 55%;
+    color: rgb(0, 0, 0);
+    border: 2px solid red;
+    border-radius: 30%;
+}
